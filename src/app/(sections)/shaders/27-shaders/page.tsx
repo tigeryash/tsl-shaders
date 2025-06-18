@@ -3,7 +3,7 @@ import Example1 from "./example-1";
 
 const ShadersIntro = () => {
   return (
-    <div className="flex items-center justify-center h-[100vh]">
+    <div className="flex items-center justify-center h-[100vh] w-full">
       <Example1 />
     </div>
   );
